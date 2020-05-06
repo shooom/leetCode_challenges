@@ -1,7 +1,5 @@
 package com.tasks.arrays;
 
-import java.util.Arrays;
-
 public class RotateArray {
 
   public static void main(String[] args) {
